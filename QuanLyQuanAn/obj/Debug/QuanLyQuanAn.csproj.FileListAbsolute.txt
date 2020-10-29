@@ -1,0 +1,13 @@
+D:\VS\project-ptudgd\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+D:\VS\project-ptudgd\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+D:\VS\project-ptudgd\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.TableManager.resources
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Accountprofile.resources
+D:\VS\project-ptudgd\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.resources
